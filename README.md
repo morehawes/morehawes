@@ -1,5 +1,1 @@
-### Hi, I'm Joe
-
-I am passionate about technology and have been creating for the web for over two decades.
-
-After starting off life in the UK, I now live in Canada where I like to grow, make things and ride my bike.
+[![Vancouver Island](https://raw.githubusercontent.com/OpenGIS/outdoors/master/screenshots/vancouver-island.jpg)](https://www.ogis.org/outdoors/#6.82/49.617/-126.76)
