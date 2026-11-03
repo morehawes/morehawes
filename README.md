@@ -5,17 +5,22 @@
 ### People
 
 - [Tim Berners Lee](https://www.w3.org/People/Berners-Lee/)
+- [Bill Bryson](https://www.penguin.co.uk/authors/176878/bill-bryson)
+- [Ray Jardine](https://www.rayjardine.com/)
 - [Matt Mullenweg](https://ma.tt/)
 - [Naval Ravikant](https://nav.al/)
 - [Peter Steinberger](https://steipete.me/)
-- [Bill Bryson](https://www.penguin.co.uk/authors/176878/bill-bryson)
-- [Ray Jardine](https://www.rayjardine.com/)
 - [Daniel Roe](https://roe.dev/)
 
 ### Maps
 
+- [OS Explorer](https://shop.osmaps.com/maps/os-explorer-maps/)
+- [Harvey Maps](https://www.harveymaps.co.uk/acatalog/Offa-s-Dyke-Path-YHWROF.html)
+- [Backroad Maps](https://backroadmapbooks.com/products/vancouver-island-backcountry-maps)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OpenCycleMap](https://www.thunderforest.com/maps/opencyclemap/)
+
+### Writing
 
 ### Audio
 
