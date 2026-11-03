@@ -13,4 +13,5 @@
 
 ### Audio
 
-- [The Hitchhiker's Guide to the Galaxy]https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(radio_series)
+- [How to Get Rich](https://nav.al/rich)
+- [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(radio_series))
