@@ -45,4 +45,5 @@
 
 - [Offa's Dyke](https://offasdyke.org.uk/offas-dyke-association/)
 - [SCT](https://sunshinecoasttrail.com/get-involved/about-paws/)
+- [TCT](https://tctrail.ca/)
 - [LT](https://greenmountainclub.org/hike/the-long-trail/)
