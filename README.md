@@ -1,1 +1,12 @@
-[![Vancouver Island](https://raw.githubusercontent.com/OpenGIS/outdoors/master/screenshots/vancouver-island.jpg)](https://www.ogis.app/#map=6.82/49.617/-126.76)
+> _A rising tide lifts all boats._
+
+## Inspiration
+
+### People
+
+- [Tim Berners Lee](https://www.w3.org/People/Berners-Lee/)
+- [Matt Mullenweg](https://ma.tt/)
+- [Naval Ravikant](https://nav.al/)
+- [Peter Steinberger](https://steipete.me/)
+- [Bill Bryson](https://www.penguin.co.uk/authors/176878/bill-bryson)
+- [Ray Jardine](https://www.rayjardine.com/)
