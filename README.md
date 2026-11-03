@@ -9,8 +9,8 @@
 - [Ray Jardine](https://www.rayjardine.com/)
 - [Matt Mullenweg](https://ma.tt/)
 - [Naval Ravikant](https://nav.al/)
-- [Peter Steinberger](https://steipete.me/)
 - [Daniel Roe](https://roe.dev/)
+- [Peter Steinberger](https://steipete.me/)
 
 ### Maps
 
@@ -22,7 +22,7 @@
 
 ### Writing
 
-- [https://offtracktravel.ca/about-us/](https://offtracktravel.ca/)
+- [Off Track Travel](https://offtracktravel.ca/about-us/)
 
 ### Audio
 
