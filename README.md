@@ -22,6 +22,8 @@
 
 ### Writing
 
+- [https://offtracktravel.ca/about-us/](https://offtracktravel.ca/)
+
 ### Audio
 
 - [How to Get Rich](https://nav.al/rich)
@@ -39,3 +41,8 @@
 - [Tiny Nest](https://www.youtube.com/tinynestproject)
 - [Foresty Forest](https://www.youtube.com/@forestyforest)
 
+### Trails
+
+- [Offa's Dyke](https://offasdyke.org.uk/offas-dyke-association/)
+- [SCT](https://sunshinecoasttrail.com/get-involved/about-paws/)
+- [LT](https://greenmountainclub.org/hike/the-long-trail/)
