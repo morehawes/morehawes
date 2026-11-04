@@ -23,6 +23,7 @@
 
 ### Writing
 
+- [Git User Manual](https://git-scm.com/docs/user-manual.html)
 - [Bill Bryson](https://www.penguin.co.uk/authors/176878/bill-bryson)
 - [Off Track Travel](https://offtracktravel.ca/about-us/)
 - [Nigel Buxton](https://en.wikipedia.org/wiki/Nigel_Buxton)
