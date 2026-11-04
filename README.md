@@ -5,7 +5,7 @@
 ### People
 
 - [Tim Berners Lee](https://www.w3.org/People/Berners-Lee/)
-- [Bill Bryson](https://www.penguin.co.uk/authors/176878/bill-bryson)
+- [Linus Torvalds](https://github.com/torvalds)
 - [Ray Jardine](https://www.rayjardine.com/)
 - [Matt Mullenweg](https://ma.tt/)
 - [Volodymyr Agafonkin](https://agafonkin.com/)
@@ -23,7 +23,9 @@
 
 ### Writing
 
+- [Bill Bryson](https://www.penguin.co.uk/authors/176878/bill-bryson)
 - [Off Track Travel](https://offtracktravel.ca/about-us/)
+- [Nigel Buxton](https://en.wikipedia.org/wiki/Nigel_Buxton)
 
 ### Audio
 
