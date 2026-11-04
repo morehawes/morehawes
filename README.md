@@ -9,7 +9,7 @@
 - [Ray Jardine](https://www.rayjardine.com/)
 - [Matt Mullenweg](https://ma.tt/)
 - [Naval Ravikant](https://nav.al/)
-- [Daniel Roe](https://roe.dev/)
+- [@danielroe](https://roe.dev/)
 - [Peter Steinberger](https://steipete.me/)
 
 ### Maps
