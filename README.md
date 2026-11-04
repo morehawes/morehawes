@@ -8,6 +8,7 @@
 - [Bill Bryson](https://www.penguin.co.uk/authors/176878/bill-bryson)
 - [Ray Jardine](https://www.rayjardine.com/)
 - [Matt Mullenweg](https://ma.tt/)
+- [Volodymyr Agafonkin](https://agafonkin.com/)
 - [Naval Ravikant](https://nav.al/)
 - [@danielroe](https://roe.dev/)
 - [Peter Steinberger](https://steipete.me/)
