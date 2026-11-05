@@ -39,6 +39,10 @@
 - [So Good They Can't Ignore You](https://archive.org/details/isbn_9781455509126)
 - [Against the Odds: An Autobiography](https://archive.org/details/againstoddsautob0000dyso/)
 
+### Television
+
+[The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos)
+
 ### Video
 
 - [I Spent 24 Hours With Roblox Millionaires](https://www.youtube.com/watch?v=8xgnm6SynH4)
