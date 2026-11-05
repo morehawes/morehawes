@@ -41,7 +41,7 @@
 
 ### Television
 
-[The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos)
+- [The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos)
 
 ### Video
 
