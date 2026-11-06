@@ -49,6 +49,7 @@
 - [I Spent 24 Hours With Roblox Millionaires](https://www.youtube.com/watch?v=8xgnm6SynH4)
 - [Tiny Nest](https://www.youtube.com/tinynestproject)
 - [Foresty Forest](https://www.youtube.com/@forestyforest)
+- [AI tools for software engineers, but without the hype](https://www.youtube.com/watch?v=uRuLgar5XZw&t=1248s&pp=ygUOc2ltb24gd2lsbGlzb24%3D)
 
 ### Trails
 
