@@ -15,10 +15,10 @@
 
 ### Maps
 
+- [OpenStreetMap](https://www.openstreetmap.org/)
 - [OS Explorer](https://shop.osmaps.com/maps/os-explorer-maps/)
 - [Harvey Maps](https://www.harveymaps.co.uk/acatalog/Offa-s-Dyke-Path-YHWROF.html)
 - [Backroad Maps](https://backroadmapbooks.com/products/vancouver-island-backcountry-maps)
-- [OpenStreetMap](https://www.openstreetmap.org/)
 - [OpenCycleMap](https://www.thunderforest.com/maps/opencyclemap/)
 
 ### Writing
