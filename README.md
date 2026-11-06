@@ -5,11 +5,11 @@
 ### People
 
 - [Tim Berners Lee](https://www.w3.org/People/Berners-Lee/)
+- [Naval Ravikant](https://nav.al/)
 - [Linus Torvalds](https://github.com/torvalds)
 - [Ray Jardine](https://www.rayjardine.com/)
 - [Matt Mullenweg](https://ma.tt/)
 - [Volodymyr Agafonkin](https://agafonkin.com/)
-- [Naval Ravikant](https://nav.al/)
 - [@danielroe](https://roe.dev/)
 - [Peter Steinberger](https://steipete.me/)
 
