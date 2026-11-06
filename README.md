@@ -20,6 +20,7 @@
 - [Harvey Maps](https://www.harveymaps.co.uk/acatalog/Offa-s-Dyke-Path-YHWROF.html)
 - [Backroad Maps](https://backroadmapbooks.com/products/vancouver-island-backcountry-maps)
 - [OpenCycleMap](https://www.thunderforest.com/maps/opencyclemap/)
+- [The Essential Geography of Vancouver Island](https://www.clarkgeomatics.ca/products/premium-vancouver-island-map)
 
 ### Writing
 
