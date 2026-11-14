@@ -9,8 +9,6 @@
 - [Linus Torvalds](https://github.com/torvalds)
 - [Ray Jardine](https://www.rayjardine.com/)
 - [Matt Mullenweg](https://ma.tt/)
-- [Volodymyr Agafonkin](https://agafonkin.com/)
-- [@danielroe](https://roe.dev/)
 - [Peter Steinberger](https://steipete.me/)
 
 ### Maps
@@ -22,9 +20,16 @@
 - [OpenCycleMap](https://www.thunderforest.com/maps/opencyclemap/)
 - [The Essential Geography of Vancouver Island](https://www.clarkgeomatics.ca/products/premium-vancouver-island-map)
 
+### Projects
+
+- [WordPress](https://wordpress.org/)
+- [Leaflet](https://leafletjs.com/)
+- [Vue](https://vuejs.org/)
+- [Vite](https://vite.dev/)
+- [Nuxt](https://nuxt.com/)
+
 ### Writing
 
-- [Git User Manual](https://git-scm.com/docs/user-manual.html)
 - [Bill Bryson](https://www.penguin.co.uk/authors/176878/bill-bryson)
 - [Off Track Travel](https://offtracktravel.ca/about-us/)
 - [Nigel Buxton](https://en.wikipedia.org/wiki/Nigel_Buxton)
