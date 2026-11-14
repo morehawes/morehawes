@@ -15,12 +15,12 @@
 
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OS Explorer](https://shop.osmaps.com/maps/os-explorer-maps/)
-- [Harvey Maps](https://www.harveymaps.co.uk/acatalog/Offa-s-Dyke-Path-YHWROF.html)
-- [Backroad Maps](https://backroadmapbooks.com/products/vancouver-island-backcountry-maps)
+- [Offa's Dyke Path](https://www.harveymaps.co.uk/acatalog/Offa-s-Dyke-Path-YHWROF.html)
+- [Vancouver Island BC Backroad Mapbook](https://backroadmapbooks.com/products/vancouver-island-backcountry-maps)
 - [OpenCycleMap](https://www.thunderforest.com/maps/opencyclemap/)
 - [The Essential Geography of Vancouver Island](https://www.clarkgeomatics.ca/products/premium-vancouver-island-map)
 
-### Projects
+### Open-Source
 
 - [WordPress](https://wordpress.org/)
 - [Leaflet](https://leafletjs.com/)
